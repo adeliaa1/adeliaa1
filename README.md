@@ -1,16 +1,14 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💝
+Meu nome e Adelia Carvalho
 
-<!--
-**adeliaa1/adeliaa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - Estou estudando na alura (https://www.alura.com.br/)
+ - Estou me desenvolvendo na linguagem JavaScript
+ - ultilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+ ### Voce entrar em contato comigo 📧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 00001129556505sp@al.educacao.sp.gov.br
+
+
+![]( <img src="https://media.tenor.com/B80MQLJXvpsAAAAM/gavin-meme.gif" alt="a young boy is holding a red rose in front of a door ."/>![image](https://github.com/user-attachments/assets/12f3cadb-eae5-45d3-83b3-d41c459dc89a) )
+
